@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntervalTimer</string>
+    <string name="cycle">실내 자전거</string>
+    <string name="plank">Plank</string>
+    <string name="warmming_up">Warmming Up</string>
+    <string name="interval">Interval</string>
+    <string name="start">START</string>
+    <string name="minute">분</string>
+    <string name="second">초</string>
+</resources>
